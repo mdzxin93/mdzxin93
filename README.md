@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Mohammed Zain J Header" />
+  <img src="https://raw.githubusercontent.com/mdzxin93/mdzxin93/main/assets/header.svg" width="100%" alt="Mohammed Zain J Header" />
 </p>
 
 <p align="center">
@@ -334,7 +334,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Developer Philosophy Quote" />
+  <img src="https://raw.githubusercontent.com/mdzxin93/mdzxin93/main/assets/quote.svg" width="100%" style="max-width: 720px;" alt="Developer Philosophy Quote" />
 </p>
 
 ---
@@ -342,7 +342,11 @@
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdzxin93/mdzxin93/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdzxin93/mdzxin93/output/github-contribution-grid-snake.svg" />
+    <img alt="Mohammed Zain J Contribution Grid Snake" src="https://raw.githubusercontent.com/mdzxin93/mdzxin93/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -391,5 +395,5 @@
 </table>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/mdzxin93/mdzxin93/main/assets/footer.svg" width="100%" alt="Footer" />
 </p>
