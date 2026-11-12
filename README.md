@@ -216,6 +216,11 @@
 
 ---
 
+
+<hr />
+<h2 align="center">REAL WORK. REAL IMPACT.</h2>
+<p align="center"><img src="./assets/builder-credentials.svg?v=1" width="100%" alt="Developer builder credentials card, hackathon leadership, public repository count and academic CGPA." /></p>
+
 <h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
 
 <p align="center"><b>Core Programming Languages</b></p>
